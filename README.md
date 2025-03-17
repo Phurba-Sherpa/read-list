@@ -287,9 +287,9 @@ jake archibald
 - [ ] https://www.sql-server-performance.com/
 
 #### Go Lang
-- [ ] (Super exciting concept about concurrency)[https://www.youtube.com/watch?v=oV9rvDllKEg]
-- [ ] (Go Lang resources list)[https://ashleymcnamara.github.io/learn_to_code/#golang]
-- [ ] (An awesome list of app building tutorial)[https://go.dev/blog/all]
+- [ ] [Super exciting concept about concurrency](https://www.youtube.com/watch?v=oV9rvDllKEg)
+- [ ] [Go Lang resources list](https://ashleymcnamara.github.io/learn_to_code/#golang)
+- [ ] [An awesome list of app building tutorial](https://go.dev/blog/all)
 
 #### Frontend design
 - [ ] https://engineering.fb.com/2020/05/08/web/facebook-redesign/ 
